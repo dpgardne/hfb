@@ -10,7 +10,12 @@ body {
 
 h2, h3, h5 {
   text-align: center;
+<<<<<<< HEAD
   color: green;
+=======
+  
+
+>>>>>>> 2e6710fa25040995710e191612c615cefe594da7
 }
 
 h4 {
@@ -78,5 +83,6 @@ h1 {
 }
 
 .price {
-  color: orange;
+  color: yellow;
+
 }
