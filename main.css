@@ -3,13 +3,14 @@
 *****************************************/
 body {
   margin-top:20px;
-  font-family: Osaka;
+  font-family: arial;
   background-color: ghostwhite;
   color: inherit;
 }
 
 h2, h3, h5 {
   text-align: center;
+  color: green;
 }
 
 h4 {
